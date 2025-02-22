@@ -10,7 +10,7 @@ It is assumed you have more than a passing familiarity with:
 > WARNING! Deploying these stacks to AWS will incur costs!
 
 ## Versions
-If you are looking for the orginal version of this cdk stack without the use of pipelines see the `original` branch in this repo. 
+If you are looking for the original version of this cdk stack without the use of pipelines see the `original` branch in this repo. 
 
 ## Prerequisites
 you will need to have at least the following installed and configured:
